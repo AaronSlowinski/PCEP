@@ -5,3 +5,5 @@ elif planets > 1:
     print("##")
 else:
     print("###")
+
+# prints "#"
