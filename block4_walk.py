@@ -4,3 +4,4 @@ def walk (stop, start=1):
         walk(stop, start +1)
         
 walk (3)
+#prints 1,2
